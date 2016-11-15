@@ -1,5 +1,5 @@
 # CosmeticProducts
 
-I'll type it later
+The link provided below will take you to the Vizualization
 
-http://127.0.0.1:4321/#topic=0&lambda=1&term=
+https://htmlpreview.github.io/#topic=1&lambda=1&term=
