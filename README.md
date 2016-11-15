@@ -1,4 +1,5 @@
-# CosmeticProducts
+Review of Cosmetic Products based on feedback and product reviews on Amazon.
+
 
 The link provided below will take you to the Vizualization
 
@@ -7,11 +8,12 @@ https://cdn.rawgit.com/Pushpak168/CosmeticProducts/master/index.html
 
 http://127.0.0.1:4321/#topic=0&lambda=0.99&term=
 
+The dataset comprised of 198,503 rows and 10 coloumns and 1,982,617 data entries. The 'Review Text' is the coloumn that contains the feedback and product review. It is also the main data used, along with the summary, whose corpus is being created and worked on.
+This dataset was downloaded in a JSON format and was converted to CSV using python and was then imported into R.
 
+The link provided below will take you to the Vizualization created by the analysis of the data.
 
-Musical Instruments Product Reviews
-
-The review file was 10,261 rows and 11 coloumns out of which the review text was the main corpus data and summary and over all rating were the additional attributees. The raw data was downloaded in JSON format and using python it was converted into CSV format and were uploaded into R.
+https://cdn.rawgit.com/Pushpak168/CosmeticProducts/master/index.html
 
 Preprocessing the file
 
